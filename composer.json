@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "Provides a field type for unite cms that allows to select one of different field group variants.",
     "require": {
-        "unite-cms/core-bundle": "0@dev"
+        "unite-cms/core-bundle": "0.*@dev"
     },
     "autoload": {
         "psr-4": { "UniteCMS\\VariantsFieldBundle\\": "" },
